@@ -24,7 +24,7 @@ Understanding bird behavior and species diversity across habitats is crucial for
 
 - **Languages:** Python (pandas, seaborn, matplotlib)
 - **Visualization:** Power BI, matplotlib, seaborn
-- **Tools:** Jupyter Notebook, Excel
+- **Tools:** Google Colab, Excel
 - **Data Sources:** Forest and Grassland Excel datasets
 
 ---
